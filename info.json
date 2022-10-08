@@ -1,0 +1,9 @@
+{
+  "name": "RibbonWorldOre",
+  "version": "0.1.1",
+  "title": "RibbonWorldOre",
+  "author": "all12jus",
+  "factorio_version": "1.1",
+  "dependencies": ["base >=1.1"],
+  "description": "Ore configured for ribbon world fun."
+}
